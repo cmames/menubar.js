@@ -131,7 +131,6 @@ function parseMenu(panel, ul, menu) {
       li.innerHTML=image+menu[i].name;
       li.dest=menu[i].dest;
       li.addEventListener("click",(e)=>{
-        console.log(e.target+" "+e.target.dest);
         panel.dispatchEvent(new CustomEvent(li.dest, e));
       });
     }
