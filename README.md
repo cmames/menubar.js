@@ -9,8 +9,8 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cmames/menubar.js)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/cmames/menubar.js)
 
-![Code Grade](https://api.codiga.io/project/29801/score/svg)
-![Code Grade](https://api.codiga.io/project/29801/status/svg)
+![Code Grade](https://api.codiga.io/project/29861/score/svg)
+![Code Grade](https://api.codiga.io/project/29861/status/svg)
 
 
 :uk: a simple menu bar at top of a div in javascript
